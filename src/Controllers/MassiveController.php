@@ -3,7 +3,7 @@
 namespace Oscar\Massive\Controllers;
 
 use App\Http\Controllers\Controller;
-use App\Traits\HasResponse;
+use Oscar\Massive\Traits\HasResponse;
 
 use Oscar\Massive\Services\MassiveService;
 
